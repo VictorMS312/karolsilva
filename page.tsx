@@ -1,7 +1,6 @@
 "use client"
 
 import React, { useState, useEffect } from "react"
-import {} from "react/jsx-runtime"
 
 // ============================================================
 // ⚙️  CONFIGURAÇÕES — edite aqui antes de subir no Vercel
