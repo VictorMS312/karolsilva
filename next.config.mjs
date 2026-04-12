@@ -17,6 +17,11 @@ const nextConfig = {
         hostname: 'instagram.com',
         pathname: '/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'images.unsplash.com',
+        pathname: '/**',
+      },
     ],
   },
 }
